@@ -1,7 +1,7 @@
 package test;
 
 public class Test {
-	
+	int a=2;
 	public int sum(int a,int b){
 		return a+b;
 	}
