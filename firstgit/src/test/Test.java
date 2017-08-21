@@ -1,6 +1,7 @@
 package test;
 
 public class Test {
+	int b=1;
 	public void print(){}
 	int a=2;
 	public int sum(int a,int b){
